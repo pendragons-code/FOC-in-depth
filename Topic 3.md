@@ -51,7 +51,7 @@ Just as a mail person needs an address to deliever mail, TCP/IP needs an address
 | 192.168.1.255 broadcast |
 | 256 - 2 = 254 |
 
-![CIDR Notation]((https://github.com/pendragons-code/FOC-in-depth/blob/master/assets/CIDR.png)
+![CIDR Notation](https://github.com/pendragons-code/FOC-in-depth/blob/master/assets/CIDR.png)
 
 ## Broadcast IP address:
 Example: 192.168.1.255/24<br>
